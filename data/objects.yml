@@ -14,9 +14,10 @@ object_list:
     location: J. Paul Getty Museum
     link: https://www.getty.edu/art/collection/objects/125690/
     figure:
-      - id: "mother"
-      - id: "mother-b"
-      - id: "mother-c"
+      - id: "1-1"
+      - id: "1-2"
+      - id: "1-3"
+      - id: "1-4"
   - id: 2
     title: Pea Pickers, Nipomo, California
     artist: Dorothea Lange
