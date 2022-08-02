@@ -1,6 +1,6 @@
 ---
 # Introduction
-## Luxury Silver 
+## Conservation Treatment of Luxury Silver 
 
 The silver objects in the nearby case were selected for examination and treatment by the Parsons Conservation Laboratory due to the presence of tarnish.  Silver tarnishes when exposed to sulfur-containing gases that are present in the atmosphere. The resulting layer of silver sulfide is thin but can darken, making inscriptions and designs hard to read. Some of the objects are also mercury gilded. This is a method of gilding that adheres a layer of gold to the surface so thinly that tarnish can form on top of it. 
 
