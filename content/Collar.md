@@ -1,9 +1,7 @@
----
 # Collar
 
- ### Roman, 2nd-3rd century CE 
+### Roman, 2nd-3rd century CE 
 ### Silver, gilding 
-
 ### Anonymous gift. 2003.23.8  
 
 This object may be a decorative attachment for the shaft of a ceremonial scepter or perhaps a military standard. The exterior is decorated with six separately cast busts: three facing lion heads terminating in acanthus foliage, alternating with three facing busts of celestial deities. First, the moon goddess Luna wearing a chiton and veil over her shoulder, with her hair pulled back and a crescent moon above her brow. Next, a bearded and veiled Saturn. The head of the third bust is missing, but may represent Sol. He wears a cloak (*chlamys*) fastened at his shoulder. The imagery implies a connection to the cult of Mithras, an eastern religion that quickly spread across the Roman Empire in part due to its popularity with soldiers, attracted by the promise of life after death. 
