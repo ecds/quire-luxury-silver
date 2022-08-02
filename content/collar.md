@@ -12,7 +12,8 @@ The entire outer surface of the collar is mercury gilded. To mercury gild a meta
 
 A chemical compound suspended in a gel system was used to dissolve the silver sulfide. This gel allowed for a controlled application of the compound at the surface of the gilding. This chemical compound is a toxic carcinogen, so personal protection like gloves, a respirator, and protective were necessary.  
 
-![](https://imgur.com/a/AEpRXnR)
+![](ht![working](https://user-images.githubusercontent.com/110210814/182444601-85f12036-2cc3-47ef-a839-9109879ca1c5.jpg)
+
 Andrew W. Mellon Fellow Kaitlyn Wright working on the collar in the fume hood 
 
 Before Treatment  
