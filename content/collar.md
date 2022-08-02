@@ -16,4 +16,6 @@ A chemical compound suspended in a gel system was used to dissolve the silver su
 
 Andrew W. Mellon Fellow Kaitlyn Wright working on the collar in the fume hood 
 
+![Collar_BT](https://user-images.githubusercontent.com/110210814/182444786-60df42a0-b34b-46f2-a271-4fcf5a692ee1.jpg)
+
 Before Treatment  
