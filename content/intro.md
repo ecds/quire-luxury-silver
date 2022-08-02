@@ -1,21 +1,13 @@
 ---
 title: Introduction
-subtitle: A Tale of Two Photographers
+subtitle: Luxury Silver 
 weight: 3
 type: splash
-image: figures/lange-house.jpg
----
 
-Dorothea Lange had an extraordinary life and career as a prolific photographer. She worked for Arnold Genthe in his portrait studio in New York and studied photography with Clarence White at Columbia University. In 1918 she began to travel around the world to make her living as a photographer. She found herself stranded in San Francisco, so she opened a photographic studio there. Paul Taylor, who would become her second husband, hired her to document migratory workers in California.
+The silver objects in the nearby case were selected for examination and treatment by the Parsons Conservation Laboratory due to the presence of tarnish.  Silver tarnishes when exposed to sulfur-containing gases that are present in the atmosphere. The resulting layer of silver sulfide is thin but can darken, making inscriptions and designs hard to read. Some of the objects are also mercury gilded. This is a method of gilding that adheres a layer of gold to the surface so thinly that tarnish can form on top of it. 
 
-{{< q-figure id="dog1" class="is-pulled-right" >}}
+This tarnish layer can be reduced mechanically with a polishing compound or dissolved chemically. Tarnish reduction inevitably removes a microns-thick layer of the silver surface; therefore, preventing the recurrence of tarnish after polishing is essential to the care of silver. This airtight microclimate case is specially designed to prevent the occurrence of tarnish.  It includes a carbon filter that absorbs sulfur-containing compounds as well as desiccant to lower humidity. 
 
-In 1935 she began to work for the Resettlement Administration, later known as the Farm Security Administration ([fig. 1](#dog1)). During this period, she made her most famous image, [*Human Erosion in California (Migrant Mother)*](/catalogue/1/), of Native American Florence Owens Thompson and her children in a pea-pickers' camp. Other less famous subjects included Japanese internment camps and scenes of workers in factories during World War II. Lange became the first woman awarded a Guggenheim fellowship, and she spent nearly ten years making photo essays for *Life* and other magazines. She also traveled extensively, making photo essays in Vietnam, Ireland, Pakistan, India, and elsewhere.
+After examination and treatment, inscriptions were visualized and documented using Reflectance Transformation Imaging. RTI is a computational photographic technique that stitches together many raking light photographs to produce an interactive image in which the user can control the position of the light source. Select an object from the menu to learn more about treatment considerations, object details, and to manipulate the RTI images of the inscriptions. 
 
-{{< q-figure id="dog2" class="is-pulled-left" >}}
-
-Walker Evans began to photograph in the late 1920s, making snapshots during a European trip. Upon his return to New York, he published his first images in 1930. During the Great Depression, Evans began to photograph for the Resettlement Administration, later known as the Farm Security Administration (FSA), documenting workers and architecture in the Southeastern states ([fig. 2](#dog2)). In 1936 he traveled with the writer James Agee to illustrate an article on tenant farm families for *Fortune* magazine; the book *Let Us Now Praise Famous Men* came out of this collaboration.
-
-Throughout his career Evans contributed photographs to numerous publications, including three devoted solely to his work. In 1965 he left Fortune, where he had been a staff photographer for twenty years, to become a professor of photography and graphic design at Yale University. He remained in the position until 1974, a year before his death.
-
-{{< q-figure id="photo-podcast" >}}
+ 
