@@ -11,3 +11,8 @@ This object may be a decorative attachment for the shaft of a ceremonial scepter
 The entire outer surface of the collar is mercury gilded. To mercury gild a metal object, the craftsman first makes an amalgam of gold and mercury and paints it onto the surface of the object. The object is then fired at a relatively low temperature, below the melting point of the silver, which drives a great deal of the mercury away and bonds the gold to the metal below. This layer of gold is incredibly thin, about 2 – 20 microns, and can contain 8-25% mercury. Because this layer is so thin, tarnish of the silver below can form on top of the gilding.  
 
 A chemical compound suspended in a gel system was used to dissolve the silver sulfide. This gel allowed for a controlled application of the compound at the surface of the gilding. This chemical compound is a toxic carcinogen, so personal protection like gloves, a respirator, and protective were necessary.  
+
+![](https://imgur.com/a/AEpRXnR)
+Andrew W. Mellon Fellow Kaitlyn Wright working on the collar in the fume hood 
+
+Before Treatment  
