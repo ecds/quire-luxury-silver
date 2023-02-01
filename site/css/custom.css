@@ -1,0 +1,14 @@
+/* break the caption and credit into two lines */
+.quire-image-info__caption, .quire-image-info__credit {
+    display: block;
+}
+
+/* hide navigation hamburger icon */
+.quire-navbar-controls__right {
+    display: none;
+}
+
+/* hide search icon */
+.quire-navbar-controls__left {
+    display: none;
+}
