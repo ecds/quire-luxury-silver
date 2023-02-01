@@ -45,7 +45,7 @@ params:
   prevPageButtonText: "Back"
   nextPageButtonText: "Next"
   entryPageSideBySideLayout: false
-  entryPageObjectLinkText: "View in 3D"
+  entryPageObjectLinkText: "View RTI"
   figureLabelLocation: on-top # below | on-top
   figureModal: true
   figureModalIcons: true

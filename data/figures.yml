@@ -1,12 +1,12 @@
 figure_list:
   - id: "2-1"
     src: figures/2-mastos/1-mastos-bt.jpg
-    caption: "Mastos before Treatment"
+    caption: "The mastos cup before treatment"
     credit: Michael C. Carlos Museum of Emory University
 
   - id: "2-2"
     src: figures/2-mastos/2-mastos-nd-inscription.jpg
-    caption: "Mastos Inscription"
+    caption: "Still image from RTI of the Parthian weight standard"
     credit: Michael C. Carlos Museum of Emory University
 
 
