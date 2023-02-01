@@ -5,7 +5,7 @@ menu: false
 type: cover
 slug: .
 toc: false
-image: pattern-spiral-overlay.png
+image: # pattern-spiral-overlay.png
 ---
 
 This should be the Exhibition's overall introduction.
