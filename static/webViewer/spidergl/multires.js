@@ -107,10 +107,10 @@ function createRtiViewer(idDiv, imageUrl, width, height)
 
 	$( "#"+idDiv + "_div #light" ).button({
       icons: {
-        primary: "lightIcon toolbarIcon"
+        primary: "lightOnIcon toolbarIcon"
       },
       text: false,
-	  label: "Light Off"
+	  label: "Light On"
     }).click(function(){
 		var options;
 		if ( $( this ).text() == "Light Off" ) 
@@ -276,7 +276,7 @@ function log(msg)
 
 function MultiRes(canvas)
 {
-	this.mode = 0;
+	this.mode = 1;
 	this.stepAnimation = 0;
 	this.idTimer;
 	this.flipAngles = [];
