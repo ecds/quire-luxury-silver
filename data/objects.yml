@@ -13,6 +13,7 @@ object_list:
     medium: Silver
     dimensions: /34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)/
     location: Michael C. Carlos Museum of Emory University
+    link: /webViewer/index-mastos.html
     figure:
       - id: "2-1"
       - id: "2-2"
@@ -24,6 +25,7 @@ object_list:
     medium: Silver
     dimensions: /34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)/
     location: Michael C. Carlos Museum of Emory University
+    link: /webViewer/index-skyphos.html
     figure:
       - id: "3-1"
       - id: "3-2"
@@ -47,7 +49,7 @@ object_list:
     medium: Silver, gilding
     dimensions: /34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)/
     location: Michael C. Carlos Museum of Emory University
-    link: /webViewer/5-sasanian-bowl.html
+    link: /webViewer/index-sasanian-bowl.html
     figure:
       - id: "5-1"
       - id: "5-2"
