@@ -1,65 +1,51 @@
 object_display_order:
   - artist
+  - period
   - year
   - dimensions
   - medium
   - location
 object_list:
   - id: 1
-    title: Title here
-    artist: Ruth Allen
-    year: 2022
-    medium: Medium type
-    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
-    location: Michael C. Carlos Museum of Emory University
-    figure:
-      - id: "1-1"
-      - id: "1-2"
-      - id: "1-3"
-      - id: "1-4"
-
-  - id: 2
-    title: Conical Cup
-    artist: Gift of the 2014 Visiting Board. 2014.36.1
-    year: Greek, late 2nd century BCE
+    title: Conical Cup (Mastos)
+    artist: /Gift of the 2014 Visiting Board. 2014.36.1/
+    period: Greek, late 2<sup>nd</sup> century BCE
     medium: Silver
-    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    dimensions: /34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)/
     location: Michael C. Carlos Museum of Emory University
-    link: /webViewer/2-mastos.html
     figure:
       - id: "2-1"
       - id: "2-2"
 
-
-  - id: 3
+  - id: 2
     title: Drinking Cup (Skyphos)
-    artist: Anonymous loan. L2017.23.1
-    year: Roman, late 1st century BCE-early 1st century CE
+    artist: /Anonymous loan. L2017.23.1/
+    period: Roman, late 1<sup>st</sup> century BCE-early 1<sup>st</sup> century CE
     medium: Silver
-    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    dimensions: /34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)/
     location: Michael C. Carlos Museum of Emory University
     figure:
       - id: "3-1"
       - id: "3-2"
       - id: "3-3"
 
-  - id: 4
+  - id: 3
     title: Decorative Collar with Busts of Celestial Deities
     artist: Anonymous gift. 2003.23.8
-    year: Roman, 2nd-3rd century CE
+    period: Roman, 2<sup>nd</sup>-3<sup>rd</sup> century CE
     medium: Silver, gilding
-    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    dimensions: /34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)/
     location: Michael C. Carlos Museum of Emory University
     figure:
       - id: "4-1"
       - id: "4-2"
 
-  - id: 5
+  - id: 4
     title: Sasanian Bowl
     artist: Lent by Lewis M. Dubroff. L2009.4.49
-    year: 6th-mid 7th century CE
+    period: 6<sup>th</sup>-mid 7<sup>th</sup> century CE
     medium: Silver, gilding
-    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
+    dimensions: /34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)/
     location: Michael C. Carlos Museum of Emory University
     link: /webViewer/5-sasanian-bowl.html
     figure:

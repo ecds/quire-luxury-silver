@@ -1,38 +1,11 @@
 figure_list:
-  - id: "dog1"
-    src: figures/lange.jpg
-    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-
-
-  - id: "1-1"
-    src: figures/1-intro-page/1-collar.png
-    caption: "Collar"
-    credit: Michael C. Carlos Museum of Emory University
-
-  - id: "1-2"
-    src: figures/1-intro-page/2-mastos.png
-    caption: "Mastos"
-    credit: Michael C. Carlos Museum of Emory University
-
-  - id: "1-3"
-    src: figures/1-intro-page/3-sasanian_bowl.png
-    caption: "Sasanian Bowl"
-    credit: Michael C. Carlos Museum of Emory University
-
-  - id: "1-4"
-    src: figures/1-intro-page/4-skyphos.png
-    caption: "Skyphos"
-    credit: Michael C. Carlos Museum of Emory University
-
-
   - id: "2-1"
-    src: figures/2-mastos/1-mastos_bt.jpg
+    src: figures/2-mastos/1-mastos-bt.jpg
     caption: "Mastos before Treatment"
     credit: Michael C. Carlos Museum of Emory University
 
   - id: "2-2"
-    src: figures/2-mastos/2-mastos_nd_inscription.jpg
+    src: figures/2-mastos/2-mastos-nd-inscription.jpg
     caption: "Mastos Inscription"
     credit: Michael C. Carlos Museum of Emory University
 
