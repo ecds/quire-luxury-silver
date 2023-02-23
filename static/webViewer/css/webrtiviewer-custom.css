@@ -1,0 +1,9 @@
+/* optimize the title font size for the webviewer pages */
+.wv-title {
+    font-size: 1.75rem;
+}
+
+.wv-btn-back {
+    margin-left: 15px;
+    margin-top: 5px;
+}
