@@ -12,3 +12,10 @@
 .quire-navbar-controls__left {
     display: none;
 }
+
+/* optimize the width for iPad Air/Pro */
+@media (min-width: 992px) {
+    .container {
+        max-width: 1080px !important;
+    }
+}
