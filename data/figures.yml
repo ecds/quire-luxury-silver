@@ -1,23 +1,23 @@
 figure_list:
   - id: "1-1"
     src: figures/1-mastos/1-mastos-bt.jpg
-    caption: "The mastos cup before treatment"
+    caption: "The cup before treatment"
     credit: Michael C. Carlos Museum of Emory University
 
   - id: "1-2"
     src: figures/1-mastos/2-mastos-nd-inscription.jpg
-    caption: "Still image from RTI of the Parthian weight standard"
+    caption: "Weight inscription"
     credit: Michael C. Carlos Museum of Emory University
 
 
   - id: "2-1"
     src: figures/2-skyphos/1-before_treatment.jpg
-    caption: "Before treatment"
+    caption: "The cup before treatment"
     credit: Michael C. Carlos Museum of Emory University
 
   - id: "2-2"
     src: figures/2-skyphos/2-gilding_detail.jpg
-    caption: "Remnants of mercury under magnification"
+    caption: "Remnants of mercury gilding, under magnification"
     credit: Michael C. Carlos Museum of Emory University
 
   - id: "2-3"
@@ -28,21 +28,21 @@ figure_list:
 
   - id: "3-1"
     src: figures/3-collar/1-collar_bt.jpg
-    caption: "Before treatment"
+    caption: "The collar before treatment"
     credit: Michael C. Carlos Museum of Emory University
 
   - id: "3-2"
     src: figures/3-collar/2-working.jpg
-    caption: "Andrew W. Mellon Fellow Kaitlyn Wright working on the collar in the fume hood"
+    caption: ""
     credit: Michael C. Carlos Museum of Emory University
 
 
   - id: "4-1"
     src: figures/4-sasanian-bowl/1-sasanian_bowl_bt.jpg
-    caption: "The Sasanian bowl before treatment"
+    caption: "The bowl before treatment"
     credit: Michael C. Carlos Museum of Emory University
 
   - id: "4-2"
     src: figures/4-sasanian-bowl/2-sasanian_bowl_detail.png
-    caption: "Detail of engraving. Note the dotted lines the artist used to create perspective on the proper right front leg, back leg, and ear"
+    caption: ""
     credit: Michael C. Carlos Museum of Emory University

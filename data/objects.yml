@@ -8,9 +8,9 @@ object_list:
   - id: 1
     title: Conical Cup (Mastos)
     credit: Gift of the 2014 Visiting Board. 2014.36.1
-    date: Greek, late 2<sup>nd</sup> century BCE
+    date: Greek, late 2<sup>nd</sup> Century BCE
     medium: Silver
-    dimensions: /34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)/
+    dimensions: 4 x 5 <sup>3</sup>⁄<sub>4</sub> in. (10.2 x 14.6 cm) 
     link: /webViewer/index-mastos.html
     figure:
       - id: "1-1"
@@ -19,9 +19,9 @@ object_list:
   - id: 2
     title: Drinking Cup (Skyphos)
     credit: Anonymous loan. L2017.23.1
-    date: Roman, late 1<sup>st</sup> century BCE-early 1<sup>st</sup> century CE
+    date: Roman, late 1<sup>st</sup> Century BCE-early 1<sup>st</sup> Century CE
     medium: Silver
-    dimensions: /34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)/
+    dimensions: 4 <sup>1</sup>⁄<sub>8</sub> x <sup>11</sup>⁄<sub>2</sub> in. (10.5 x 3.8 cm)
     link: /webViewer/index-skyphos.html
     figure:
       - id: "2-1"
@@ -31,9 +31,9 @@ object_list:
   - id: 3
     title: Decorative Collar with Busts of Celestial Deities
     credit: Anonymous gift. 2003.23.8
-    date: Roman, 2<sup>nd</sup>-3<sup>rd</sup> century CE
+    date: Roman, 2<sup>nd</sup>-3<sup>rd</sup> Century CE
     medium: Silver, gilding
-    dimensions: /34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)/
+    dimensions: 1 <sup>3</sup>⁄<sub>4</sub> in. (4.4 cm)
     figure:
       - id: "3-1"
       - id: "3-2"
@@ -41,9 +41,9 @@ object_list:
   - id: 4
     title: Bowl
     credit: Lent by Lewis M. Dubroff. L2009.4.49
-    date: Sasanian 6<sup>th</sup>-mid 7<sup>th</sup> century CE
+    date: Sasanian 6<sup>th</sup>-mid 7<sup>th</sup> Century CE
     medium: Silver, gilding
-    dimensions: /34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)/
+    dimensions: 10 <sup>1</sup>/<sub>8</sub> x 4 <sup>1</sup>/<sub>2</sub> x 2 <sup>1</sup>/<sub>2</sub> in. (25.7 x 11.4 x 6.4 cm)
     link: /webViewer/index-sasanian-bowl.html
     figure:
       - id: "4-1"
