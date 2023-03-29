@@ -14,8 +14,114 @@
 }
 
 /* optimize the width for iPad Air/Pro */
-@media (min-width: 992px) {
+/* @media screen and (min-width: 700px) {
     .container {
         max-width: 1080px !important;
+    }
+} */
+
+/* 
+@media screen and (max-width: 700px) {
+    .quire-entry div.side-by-side {
+        display: flex !important;
+    }
+
+    div.quire-entry__image-wrap {
+        width: 60% !important;
+        flex: none;
+    }
+
+    .visually-hidden {
+        visibility: hidden !important;
+    }
+
+    .container {
+        width: 100% !important;
+    }
+}
+
+@media screen and (min-width: 700px) {
+    .quire-entry div.side-by-side div.quire-entry__image-wrap div.quire-entry__image {
+        position: fixed;
+        width: calc(60% - 8px);
+        height: 80vh;
+    }
+}
+
+html {
+    zoom: 125%;
+} */
+
+.quire-navbar {
+    min-height: 4rem;
+    font-size: 1.35rem;
+}
+
+.quire-navbar-controls {
+    line-height: 4rem;
+    height: 4rem;
+}
+
+.quire-navbar svg {
+    max-height: 2.5rem;
+    max-width: 2.5rem;
+    height: 2.5rem;
+    width: 2.5rem;
+}
+
+.quire-navbar-button.play-button svg, .quire-navbar-button.home-button svg {
+    max-height: 3rem;
+    max-width: 3rem;
+    height: 3rem;
+    width: 3rem;
+}
+
+.quire-entry__tombstone .table {
+    font-size: 1.25rem;
+}
+
+.quire-entry h1 {
+    font-size: 2.25rem;
+}
+
+.quire-page__content {
+    font-size: 1.25rem;
+}
+
+.quire-entry__image .quire-image-control.quire-image-info > span.quire-image-info__wrap {
+    font-size: 1.5rem;
+}
+
+.quire-entry__image .quire-image-control--next-image {
+    transform: scale(1.5);
+}
+
+.quire-entry__image .quire-image-control--prev-image, 
+div.leaflet-control-container > div.leaflet-top.leaflet-left > div.leaflet-control-zoom.leaflet-bar.leaflet-control > a, 
+div.leaflet-control-container > div.leaflet-top.leaflet-left > div.leaflet-control-zoom.leaflet-bar.leaflet-control > a,
+.quire-entry__image .leaflet-control-fullscreen a, .mfp-content .leaflet-control-fullscreen a {
+    transform: scale(1.5);
+    margin: 1rem 0;
+}
+
+div.quire-counter-container > span {
+    font-size: 1.5rem;
+}
+
+.quire-entry__image .leaflet-control-fullscreen, .mfp-content .leaflet-control-fullscreen {
+    top: 110px;
+}
+
+.quire-page__header__title {
+    font-size: 4rem;
+}
+
+html p {
+    font-size: 1.5rem;
+}
+
+@media (min-width: 992px) {
+    .container {
+        max-width: 1170px !important;
     }
 }
