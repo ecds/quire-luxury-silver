@@ -10528,7 +10528,7 @@ div.multimedia {
 
 .quire-entry div.side-by-side {
   display: block; }
-  @media screen and (min-width: 1184px) {
+  @media screen and (min-width: 700px) {
     .quire-entry div.side-by-side {
       display: -webkit-box;
       display: flex; } }
@@ -10536,7 +10536,7 @@ div.multimedia {
     position: relative;
     width: 100%;
     overflow: hidden; }
-    @media screen and (min-width: 1184px) {
+    @media screen and (min-width: 700px) {
       .quire-entry div.side-by-side div.quire-entry__image-wrap {
         width: 56%;
         -webkit-box-flex: 0;
@@ -10545,7 +10545,7 @@ div.multimedia {
       position: relative;
       width: 100%;
       height: calc(100vh - 6rem - 3rem - 2px); }
-      @media screen and (min-width: 1184px) {
+      @media screen and (min-width: 700px) {
         .quire-entry div.side-by-side div.quire-entry__image-wrap div.quire-entry__image {
           position: fixed;
           width: calc(56% - 8px);
@@ -10556,7 +10556,7 @@ div.multimedia {
         .quire-entry div.side-by-side div.quire-entry__image-wrap div.quire-entry__image {
           height: 60vh;
           min-height: inherit; } }
-      @media screen and (min-width: 1184px) {
+      @media screen and (min-width: 700px) {
         .quire-entry div.side-by-side div.quire-entry__image-wrap div.quire-entry__image .quire-entry__image__group-container figure {
           height: calc(100vh - 3rem - 2px); } }
       .quire-entry div.side-by-side div.quire-entry__image-wrap div.quire-entry__image.fullscreen {
@@ -10565,19 +10565,19 @@ div.multimedia {
           height: 100vh; }
   .quire-entry div.side-by-side div.quire-entry__content {
     width: 100%; }
-    @media screen and (min-width: 1184px) {
+    @media screen and (min-width: 700px) {
       .quire-entry div.side-by-side div.quire-entry__content {
         width: 44%;
         -webkit-box-flex: 0;
                 flex: none;
         background: #EEF2F3; } }
-    @media screen and (min-width: 1184px) {
+    @media screen and (min-width: 700px) {
       .quire-entry div.side-by-side div.quire-entry__content section.section,
       .quire-entry div.side-by-side div.quire-entry__content section,
       .quire-entry div.side-by-side div.quire-entry__content header {
         padding-left: 20px;
         padding-right: 20px; } }
-    @media screen and (min-width: 1184px) {
+    @media screen and (min-width: 700px) {
       .quire-entry div.side-by-side div.quire-entry__content section.section div.container,
       .quire-entry div.side-by-side div.quire-entry__content section div.container,
       .quire-entry div.side-by-side div.quire-entry__content header div.container {
