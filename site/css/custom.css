@@ -125,3 +125,20 @@ html p {
         max-width: 1170px !important;
     }
 }
+
+.quire-entry__tombstone .button {
+    margin-left: 2em;
+    margin-top: 1.5em;
+    background-color: #ffffff;
+    border-radius: 2px;
+    border: 2px solid #CF4747; 
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.quire-contents-buttons li.quire-nav-button a {
+    display: inline-block;
+    font-family: "Noto Sans", sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+}
