@@ -7519,7 +7519,7 @@ function _SglCanvasManager(canvasID, handler, updateRate) {
 	var canvas = document.getElementById(canvasID);
 	if (!canvas) throw new Error("SpiderGL : Canvas not found");
 
-	canvas.contentEditable = true;
+	canvas.contentEditable = false;
 
 	var gl = sglGetCanvasContext(canvasID);
 	if (!gl) throw new Error("SpiderGL : Cannot get WebGL context");
